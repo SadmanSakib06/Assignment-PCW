@@ -4,7 +4,10 @@
 
 
 
-                    First  equation: $Y =Xβ+ϵy, ∀X$ <br>
+                    First  equation: Y =Xβ+ϵy, ∀X
                     Second equation: X =Zγ+ϵx
+                    
+                    
+                    
 
 
