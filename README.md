@@ -4,18 +4,10 @@
 
 <p align = "center">
   First  equation: Y =Xβ+ϵ<sub>y</sub>, ∀X $ <br>
-Second equation: X =Zγ+ϵ<sub>x</sub> $  <br>
-$f_{1}(ω)= \frac{{σ^2}}{2π}, ω∈[−π,π] $
-  
-
+  Second equation: X =Zγ+ϵ<sub>x</sub> $  <br>
+  $f_{1}(ω)= \frac{{σ^2}}{2π}, ω∈[−π,π] $
 </p>
 
-
-<p align="center">
-                      
-
-                    
-</p>   
 
 1. First item a. first sub-item A) first sub-sub-item b. second sub-item
 2. Second item
