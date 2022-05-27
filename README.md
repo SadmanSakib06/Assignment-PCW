@@ -3,7 +3,7 @@
 ### Some Math Equation
 
 
-Sakib <sub> Ayon </sub>
+Sakib<sub>Ayon</sub>
                     
                 
                     
