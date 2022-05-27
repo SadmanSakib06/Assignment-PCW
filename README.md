@@ -21,12 +21,12 @@
    - second sub-item
 
 ![Cat Image](./cattu.png)
-```
-library(tidyverse)
-library(mdsr)
-SAT_2010 %>% ggplot(aes(write,..density..)) + geom_histogram() +
-geom_density() + theme_minimal() + labs(title = "SAT Writing Scores")
-```
+
+    library(tidyverse)
+    library(mdsr)
+    SAT_2010 %>% ggplot(aes(write,..density..)) + geom_histogram() +
+    geom_density() + theme_minimal() + labs(title = "SAT Writing Scores")
+
                     
                 
                     
