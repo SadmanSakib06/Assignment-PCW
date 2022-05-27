@@ -20,7 +20,7 @@
      - first sub-sub-item
    - second sub-item
 
-![Cat Image](./image/cat.png)
+![Cat Image](./cattu.png)
 
 
                     
