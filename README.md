@@ -4,4 +4,7 @@
 
 
 
+                    First  equation: Y =Xβ+ϵy, ∀X
+                    Second equation: X =Zγ+ϵx
+
 
