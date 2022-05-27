@@ -31,11 +31,11 @@
 You can align text in the columns to the left, right, or center by adding a colon (:) to the left,
 right, or on both side of the hyphens within the header row.
 
-| Tables        | Are           | Cool  |
+| Syntax        | Description   | Test Text  |
 | ------------- |:-------------:| -----:|
-| col 3 is      | right-aligned | $1600 |
-| col 2 is      | centered      |   $12 |
-| zebra stripes | are neat      |    $1 |
+| Header      | Title | Here's this |
+| Paragraph    | Text      |   And more |
+
 
 
 
