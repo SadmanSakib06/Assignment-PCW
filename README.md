@@ -3,11 +3,9 @@
 ### Some Math Equation
 
 
-
-                        First  equation: Y =Xβ+ϵ<sub>y</sub>, ∀X 
-                        Second equation: X =Zγ+ϵ<sub>x</sub>
+Sakib <sub> Ayon </sub>
                     
-      Ayon <sub>Sakib</sub>            
+                
                     
 
 
