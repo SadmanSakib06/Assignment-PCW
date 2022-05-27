@@ -4,7 +4,7 @@
 
 
 <p align="center">
-                    First  equation: Y =Xβ+ϵy, ∀X
+                    First  equation: Y =Xβ+ϵy, ∀X <br>
                     Second equation: X =Zγ+ϵx
                     
                     
