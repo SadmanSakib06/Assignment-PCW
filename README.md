@@ -4,8 +4,8 @@
 
 
 
-                        First  equation: Y =Xβ+ϵ<sub>y, ∀X 
-                        Second equation: X =Zγ+ϵx
+                        First  equation: Y =Xβ+ϵ<sub>y</sub>, ∀X 
+                        Second equation: X =Zγ+ϵ<sub>x</sub>
                     
                     
                     
